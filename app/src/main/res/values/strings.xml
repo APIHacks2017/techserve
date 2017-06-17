@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Social Connect</string>
+    <string name="facebook_app_id">993680547440383</string>
+    <string name="CONSUMER_KEY">p9JyRW4zzxbxw1dXYXALVsUrq</string>
+    <string name="CONSUMER_SECRET">74weGG8H1Uyzn5URlu1nst3TWlm1aDfwqiaQRq6XfX1qPKXiEv</string>
+    <string name="facebook_icon">&#xea91;</string>
+    <string name="twitter_icon">&#xe900;</string>
+</resources>

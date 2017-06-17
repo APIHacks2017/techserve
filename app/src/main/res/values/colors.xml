@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#018dd8</color>
+    <color name="colorPrimaryDark">#018dd8</color>
+    <color name="colorAccent">#018dd8</color>
+    <color name="background_blue">#018dd8</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#7d7e79</color>
+    <color name="dark_grey">#696969</color>
+    <color name="light_grey">#f1f1f1</color>
+    <color name="soft_grey">#f2f2f2</color>
+    <color name="light_grey_2">#a9acb2</color>
+    <color name="register_background">#eef0ef</color>
+    <color name="orange">#f3b689</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#ff8000</color>
+    <color name="transparent_yellow">#AAFF8000</color>
+    <color name="transparent_white">#AAFFFFFF</color>
+    <color name="textgray">#718f7d</color>
+    <color name="balck">#000000</color>
+    <color name="cAppTheme">#018dd8</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+    <color name="whatsapp_color">#34AF23</color>
+    <color name="mail_color">#c71610</color>
+    <color name="viber_color">#59267c</color>
+    <color name="telegram_color">#0088cc</color>
+</resources>
